@@ -1,0 +1,4 @@
+package simplefactory;
+
+interface Login {
+}
